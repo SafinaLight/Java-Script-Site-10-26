@@ -11,7 +11,7 @@ body {
  /* also https://fonts.google.com for additional fonts */
 
       font-family: Arial, sans-serif;
-      background-color: #F5EBCF;
+      background-color: #FFDCDA;
       text-align: center;
       margin: 0;
       padding: 0;
@@ -20,7 +20,7 @@ body {
 /*==========navigation============== */
 
     nav {
-      background-color: #E2896B;
+      background-color: #EA8785;
       padding: 10px 0;
      /*flexible box layout see: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout */
       display: flex;
@@ -35,7 +35,7 @@ body {
 
 /* default navigation */
     nav button {
-      background-color: #83695E;
+      background-color: #9E5B5A;
       color: white;
       border: none;
       padding: 10px 20px;
@@ -48,12 +48,12 @@ body {
 
 /* navigation button hover style */
     nav button:hover {
-      background-color: #F4D02E;
+      background-color: #EA8785;
     }
 
 /* active page button */
     nav button.active {
-      background-color: #BE5019;
+      background-color: #754443;
     }
 
 div {
